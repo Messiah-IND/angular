@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angularfinal-b5276": {
+      "hosting": {
+        "angularfinal": [
+          "angularfinal-b5276"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angularfinal-b5276"
+  }
+}
